@@ -1,0 +1,7 @@
+{
+  "name": "CONTENT PRODUCTION HQ",
+  "description": "AI 기반 콘텐츠 전략·제작·전환·확장·성과 통합 생산 시스템 3F 버추얼 빌딩",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
